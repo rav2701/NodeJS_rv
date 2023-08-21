@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_rv",
+  "version": "1.0.0",
+  "description": "Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rav2701/NodeJS_rv.git"
+  },
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rav2701/NodeJS_rv/issues"
+  },
+  "homepage": "https://github.com/rav2701/NodeJS_rv#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.3",
+    "mysql": "^2.18.1"
+  }
+}
